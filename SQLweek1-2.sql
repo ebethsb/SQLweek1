@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE gender= 'F' AND hire_date > '1990-01-01';

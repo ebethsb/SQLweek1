@@ -1,0 +1,1 @@
+INSERT INTO employees VALUES(100, "1999-02-14", "Brady", "Smith", "M", "2021-10-13"), (101, "1990-12-25", "Elaine", "Martin", "F", "2020-10-31"), (102, "1988-07-04", "Mary", "Mercy", "F", "2018-07-02");

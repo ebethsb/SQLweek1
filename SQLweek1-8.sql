@@ -1,0 +1,1 @@
+UPDATE employees SET hire_date = "2002-01-01" WHERE first_name LIKE "P%";
